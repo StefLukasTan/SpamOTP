@@ -8,3 +8,4 @@ Follow this instruction:
 
 When the code has run, you must enter the country code (example: ID). And than you should enter the phone number and than enter how many times you want to send the spam (Max: 3).
 
+Remember: This script only works every 10 minutes per once
